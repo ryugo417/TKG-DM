@@ -1,0 +1,8 @@
+# __pycache__ ディレクトリを無視
+__pycache__/
+
+# outputs ディレクトリ内を無視
+outputs/
+
+# Python のバイトコードファイルを無視
+*.pyc
