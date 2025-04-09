@@ -1,14 +1,12 @@
 # [CVPR 2025 Highlight] TKG-DM
 [![arXiv](https://img.shields.io/badge/arXiv-2411.15580-b31b1b.svg)](https://arxiv.org/abs/2411.15580)
 
-This repository is the official implementation of [TKG-DM](https://arxiv.org/abs/2411.15580).
-
 > **TKG-DM: Training-free Chroma Key Content Generation Diffusion Model**  
 > *Ryugo Morita, Stanislav Frolov, Brian Bernhard Moser, Takahiro Shirakawa, Ko Watanabe, Andreas Dengel, Jinjia Zhou*  
 
 ## [[Paper](https://arxiv.org/abs/2412.02168)]
 
-![TKG-DM Pipeline](project_page/static/images/model.pdf)
+![TKG-DM Pipeline](TKG-DM/static/images/model.pdf)
 
 ## Abstract
 
