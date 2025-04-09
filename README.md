@@ -1,4 +1,4 @@
-# [CVPR2025 Highlight] TKG-DM🥚: Training-free Chroma Key Content Generation Diffusion Model
+# [CVPR2025 Highlight] TKG-DM🥚🍚: Training-free Chroma Key Content Generation Diffusion Model
 [![arXiv](https://img.shields.io/badge/arXiv-2411.15580-b31b1b.svg)](https://arxiv.org/abs/2411.15580)
 
 > **TKG-DM: Training-free Chroma Key Content Generation Diffusion Model**  
