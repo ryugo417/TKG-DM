@@ -1,12 +1,10 @@
-# [CVPR 2025 Highlight] TKG-DM
+# [CVPR 2025 Highlight] TKG-DM: Training-free Chroma Key Content Generation Diffusion Model
 [![arXiv](https://img.shields.io/badge/arXiv-2411.15580-b31b1b.svg)](https://arxiv.org/abs/2411.15580)
 
 > **TKG-DM: Training-free Chroma Key Content Generation Diffusion Model**  
 > *Ryugo Morita, Stanislav Frolov, Brian Bernhard Moser, Takahiro Shirakawa, Ko Watanabe, Andreas Dengel, Jinjia Zhou*  
 
-## [[Paper](https://arxiv.org/abs/2412.02168)]
-
-![TKG-DM Pipeline](TKG-DM/static/images/model.pdf)
+![TKG-DM Pipeline](static/images/model.pdf)
 
 ## Abstract
 
@@ -28,12 +26,6 @@ python main.py --method tkg --device 0 --seed 1234
   - `"tkg"` – TKG noise processing method.
 - **`--device`**: Specify the index of the CUDA GPU to be used (e.g., `0`).
 - **`--seed`**: Set a seed for random number generation to ensure reproducibility.
-
-## Output Directory
-
-After running, the generated images will be saved in a directory following this structure:
-
-outputs/sdxl/<method>/<seed>/
 
 
 ## Citation
